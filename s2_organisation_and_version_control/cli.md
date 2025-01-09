@@ -9,7 +9,7 @@ powerful tool for interacting with your computer. You should already now be fami
 in the terminal:
 
 ```bash
-python my_script.py
+python your_script.py
 ```
 
 However, as your projects grow in size and complexity, you will often find yourself in need of more advanced ways of
